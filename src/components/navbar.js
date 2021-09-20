@@ -5,7 +5,7 @@ import logo from "../images/MP-logo-transparent-bg.png";
 
 const Navigation = () => {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar expand="lg">
       <Navbar.Brand href="/">
         <img src={logo} className="logo" alt="Mariana Pantelic Logo" />
       </Navbar.Brand>
